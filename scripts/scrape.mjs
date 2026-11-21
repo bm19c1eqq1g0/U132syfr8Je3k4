@@ -1,4 +1,3 @@
-Scrape · MJS
 // Fetches the 19 U11 team pages, extracts the embedded TeamLinkt JSON, writes data.json
 import fs from "node:fs";
 const L = {
